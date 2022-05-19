@@ -47,4 +47,3 @@ if(isset($_GET['prod_Id'])){
 	}
 	echo "</table>";
 ?>
-
