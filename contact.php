@@ -15,7 +15,6 @@ include "header.php";
 				</p>
 			</form>
 		</div>
-		
 	</div>
 	<?php
 	include "footer.php";

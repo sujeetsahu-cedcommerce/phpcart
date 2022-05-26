@@ -144,3 +144,9 @@ body{
 	border: 1px solid #cccccc; 
 }
 
+#table{
+	width:500px;
+	background: #3e9cbf; 
+	padding: 8px 14px 10px; 
+	border:1px solid #3e9cbf;
+}
